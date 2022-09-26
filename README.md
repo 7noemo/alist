@@ -4,7 +4,7 @@
 - **夸克云盘：**暂时无法使用。
 - **个人文件：**个人文件夹需要密码访问。
 ---
-##配置信息 
+## 配置信息 
 | 服务器地址 | alist.arhomenet.tk
 | --------   | -----|
 |远程路径| dav|
@@ -12,6 +12,6 @@
 |用户名|dangbei|
 |密码|dangbei|
 ---
-##KODI简单配置
+## KODI简单配置
 ![](https://s1.ax1x.com/2022/09/26/xVvImT.jpg)
 ### 详细教程请点击→[前往石墨文档查看](https://shimo.im/docs/m8AZVQ7jnDtxXlAb/  "前往石墨文档查看")

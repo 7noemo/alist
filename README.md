@@ -13,5 +13,5 @@
 |密码|dangbei|
 ---
 ## ⚡KODI简单配置
-![](https://s1.ax1x.com/2022/09/26/xVvImT.jpg)
+![](https://github.com/7noemo/alist/blob/main/KODI%E6%8C%82%E8%BD%BD/KODI%E6%8C%82%E8%BD%BD.jpg?raw=true)
 ### 详细教程请点击→[前往石墨文档查看](https://shimo.im/docs/m8AZVQ7jnDtxXlAb/  "前往石墨文档查看")
